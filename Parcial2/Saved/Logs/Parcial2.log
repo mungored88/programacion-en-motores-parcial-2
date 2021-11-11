@@ -1,0 +1,1365 @@
+﻿Log file open, 11/11/21 15:18:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Parcial2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.329146
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+[2021.11.11-18.18.48:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.11-18.18.48:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+[2021.11.11-18.18.48:904][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+[2021.11.11-18.18.48:910][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.11-18.18.48:910][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.11-18.18.48:911][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.11-18.18.48:911][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.11-18.18.48:911][  0]LogHAL: Display: Platform has ~ 32 GB [34289868800 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.11-18.18.48:911][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.11-18.18.48:911][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Scalability.ini]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.11-18.18.48:912][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Engine.ini]
+[2021.11.11-18.18.48:912][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Config/Windows/Editor.ini]
+[2021.11.11-18.18.48:912][  0]LogInit: Computer: DESKTOP-GJOD601
+[2021.11.11-18.18.48:912][  0]LogInit: User: xjmx
+[2021.11.11-18.18.48:912][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.11-18.18.48:912][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.11-18.18.48:912][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.11.11-18.18.48:912][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.11-18.18.48:912][  0]LogMemory: Process Physical Memory: 146.93 MB used, 146.93 MB peak
+[2021.11.11-18.18.48:912][  0]LogMemory: Process Virtual Memory: 125.34 MB used, 125.34 MB peak
+[2021.11.11-18.18.48:912][  0]LogMemory: Physical Memory: 17532.64 MB used,  15168.73 MB free, 32701.37 MB total
+[2021.11.11-18.18.48:912][  0]LogMemory: Virtual Memory: 134207680.00 MB used,  10045.59 MB free, 134217728.00 MB total
+[2021.11.11-18.18.48:917][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.11-18.18.48:942][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.11-18.18.48:943][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.11.11-18.18.48:943][  0]LogInit: Using OS detected locale (es-AR).
+[2021.11.11-18.18.49:124][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.11-18.18.49:180][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.11-18.18.49:188][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.11-18.18.49:188][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.11-18.18.49:279][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.11-18.18.49:282][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.11-18.18.49:282][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.11-18.18.49:282][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.11-18.18.49:282][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.11-18.18.49:364][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2021.11.11-18.18.49:364][  0]LogD3D11RHI:       8010/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.11-18.18.49:366][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.11-18.18.49:366][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.11-18.18.49:366][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.11-18.18.49:376][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.11-18.18.49:376][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.11-18.18.49:376][  0]LogWindows: EnumDisplayDevices:
+[2021.11.11-18.18.49:376][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2021.11.11-18.18.49:376][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2021.11.11-18.18.49:376][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2021.11.11-18.18.49:376][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2021.11.11-18.18.49:376][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.11-18.18.49:376][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2021.11.11-18.18.49:376][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.11-18.18.49:376][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.11-18.18.49:376][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.11.11-18.18.49:426][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.11-18.18.49:426][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.11-18.18.49:426][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.11-18.18.49:427][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2021.11.11-18.18.49:439][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.11-18.18.49:467][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.11-18.18.49:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.11-18.18.49:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.11-18.18.49:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.11-18.18.49:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.11-18.18.49:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.11-18.18.49:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.11-18.18.49:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.11-18.18.49:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.11-18.18.49:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.11-18.18.49:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.11-18.18.49:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.11-18.18.49:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.11-18.18.49:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.11-18.18.49:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.11-18.18.49:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.11-18.18.49:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.11-18.18.49:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.11-18.18.49:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.11-18.18.49:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.11-18.18.49:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.11-18.18.49:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.11-18.18.49:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.11-18.18.49:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.11-18.18.49:819][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.11-18.18.49:824][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.11-18.18.49:844][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.11-18.18.49:866][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.11-18.18.49:866][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Intermediate/Shaders/WorkingDirectory/38716/).
+[2021.11.11-18.18.49:866][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xjmx/AppData/Local/Temp/UnrealShaderWorkingDir/C9195F80451A104C3B5BB1BFF3392763/'.
+[2021.11.11-18.18.49:866][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.11-18.18.49:866][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.11-18.18.49:866][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.11-18.18.50:470][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.11-18.18.50:524][  0]LogDerivedDataCache: Loaded boot cache 0.05s 95MB C:/Users/xjmx/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.11-18.18.50:524][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/xjmx/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.11-18.18.50:524][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.11-18.18.50:524][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.11-18.18.50:525][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.11-18.18.50:525][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.11-18.18.50:537][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.11-18.18.50:537][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.11-18.18.50:537][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.11-18.18.50:542][  0]LogDerivedDataCache: Speed tests for C:/Users/xjmx/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.11-18.18.50:542][  0]LogDerivedDataCache: Display: Performance to C:/Users/xjmx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1817.57MBs, RandomWriteSpeed=220.06MBs. Assigned SpeedClass 'Local'
+[2021.11.11-18.18.50:543][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xjmx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.11-18.18.50:543][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.11-18.18.50:543][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.11-18.18.50:584][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.11-18.18.50:584][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.11-18.18.50:601][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.11.11-18.18.50:774][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.11-18.18.50:774][  0]LogInit: Active device profile: [00000264A312AD00][000002649F368F80 49] Windows
+[2021.11.11-18.18.50:774][  0]LogInit: Profiles: [00000264A312AD00][000002649F368F80 49] Windows, [00000264A30C1000][000002649F371100 49] WindowsNoEditor, [00000264A3129200][000002649F375280 49] WindowsServer, [00000264A3129A00][000002649F379400 49] WindowsClient, [00000264A30C2900][000002649F37D580 49] IOS, [00000264A30C3D00][000002649CA0F700 49] iPadAir, [00000264A30C7000][000002649CA13880 49] iPadAir2, [00000264A3044C00][000002649CA1BB40 49] IPadPro, [00000264A3044D00][000002649CA17B80 49] iPadAir3, [00000264A30C2F00][000002649CA1E180 49] iPadAir4, [00000264A3045A00][000002649CA22300 49] iPadMini2, [00000264A30C2A00][000002649CA26480 49] iPadMini3, [00000264A3046500][000002649CA2A600 49] iPadMini4, [00000264A30C2000][000002649CA2E780 49] iPadMini5, [00000264A312B400][000002649F36CA00 49] iPhone6, [00000264A3129400][000002649CA32A40 49] iPodTouch6, [00000264A30C6000][000002649CA3AC80 49] iPhone7, [00000264A30C7700][000002649CA36CC0 49] iPodTouch7, [00000264A3045B00][000002649CA42E40 49] iPhone5S, [00000264A30C4600][000002649CA46FC0 49] iPhone6Plus, [00000264A3046900][000002649CA4B140 49] iPhone6S, [00000264A30C5100][000002649CA4F2C0 49] iPhone6SPlus, [00000264A3044900][000002649CA53440 49] iPhone7Plus, [00000264A30C7900][000002649CA575C0 49] iPhoneSE, [00000264A3045600][000002649CA5B740 49] iPhone8, [00000264A30C6C00][000002649CA5F8C0 49] iPhone8Plus, [00000264A3045C00][000002649CA63A40 49] iPhoneX, [00000264A3129300][000002649CA67BC0 49] iPhoneXS, [00000264A3045400][000002649CA6A1C0 49] iPhoneXSMax, [00000264A312A000][000002649CA6E340 49] iPhoneXR, [00000264A3046000][000002649CA724C0 49] iPhone11, [00000264A312AA00][000002649CA76640 49] iPhone11Pro, [00000264A3047A00][000002649CA7A7C0 49] iPhone11ProMax, [00000264A3129C00][000002649CA7E940 49] iPhoneSE2, [00000264A3046600][00000264A3B1EAC0 49] iPhone12Mini, [00000264A3128D00][000002649CA3EC00 49] iPhone12, [00000264A3047F00][00000264A3B22D40 49] iPhone12Pro, [00000264A3129700][00000264A3B26E80 49] iPhone12ProMax, [00000264A3047000][00000264A3B2AFC0 49] iPadPro105, [00000264A3129D00][00000264A3B33140 49] iPadPro129, [00000264A3046A00][00000264A3B372C0 49] iPadPro97, [00000264A3128B00][00000264A3B3B440 49] iPadPro2_129, [00000264A3047800][00000264A3B3F5C0 49] iPad5, [00000264A3128400][00000264A3B43740 49] iPad6, [00000264A3044B00][00000264A3B478C0 49] iPad7, [00000264A3128700][00000264A3B4BA40 49] iPad8, [00000264A3047E00][00000264A3B4FBC0 49] iPadPro11, [00000264A312AC00][00000264A3B521C0 49] iPadPro2_11, [00000264A3047200][00000264A3B56340 49] iPadPro3_129, [00000264A312A100][00000264A3B5A4C0 49] iPadPro4_129, [00000264A3046100][00000264A3B5E640 49] AppleTV, [00000264A3129900][00000264A3B627C0 49] AppleTV4K, [00000264A3047500][00000264A3B66940 49] TVOS, [00000264A312B300][00000264A3B6AAC0 49] Mac, [00000264A3044600][00000264A3B6EC40 49] MacClient, [00000264A3129000][00000264A3B2ED80 49] MacNoEditor, [00000264A3044700][00000264A3B72EC0 49] MacServer, [00000264A312AB00][00000264A3B77000 49] Linux, [00000264A3046700][00000264A3B7B140 49] LinuxAArch64, [00000264A312A600][00000264A3B832C0 49] LinuxNoEditor, [00000264A3045000][00000264A3B87440 49] LinuxAArch64NoEditor, [00000264A312A900][00000264A3B8B5C0 49] LinuxClient, [00000264A3046B00][00000264A3B8F740 49] LinuxAArch64Client, [00000264A3128200][00000264A3B938C0 49] LinuxServer, [00000264A3045200][00000264A3B97A40 49] LinuxAArch64Server, [00000264A312AF00][00000264A3B9BBC0 49] Android, [00000264A3044800][00000264A3B9E1C0 49] Android_Low, [00000264A30C6100][00000264A3BA2340 49] Android_Mid, [00000264A30C2400][00000264A3BA64C0 49] Android_High, [00000264A30C5900][00000264A3BAA640 49] Android_Default, [00000264A30C2C00][00000264A3BAE7C0 49] Android_Adreno4xx, [00000264A30C5B00][00000264A3BB2940 49] Android_Adreno5xx_Low, [00000264A30C1A00][00000264A3BB6AC0 49] Android_Adreno5xx, [00000264A30C6F00][00000264A3BBAC40 49] Android_Adreno6xx, [00000264A30C1500][00000264A3BBEDC0 49] Android_Adreno6xx_Vulkan, [00000264A30C6400][00000264A3BC2F40 49] Android_Mali_T6xx, [00000264A30C0400][00000264A3B7F080 49] Android_Mali_T7xx, [00000264A30C5500][00000264A3BC71C0 49] Android_Mali_T8xx, [00000264A30C2700][00000264A3BCB300 49] Android_Mali_G71, [00000264A30C5F00][00000264A3BD3480 49] Android_Mali_G72, [00000264A30C3800][00000264A3BD7600 49] Android_Mali_G72_Vulkan, [00000264A30C7B00][00000264A3BDB780 49] Android_Mali_G76, [00000264A30C3E00][00000264A3BDF900 49] Android_Mali_G76_Vulkan, [00000264A30C6B00][00000264A3BE3A80 49] Android_Mali_G77, [00000264A30C1800][00000264A3BE7C00 49] Android_Mali_G77_Vulkan, [00000264A30C4F00][00000264A3BEA200 49] Android_Mali_G78, [00000264A30C3400][00000264A3BEE380 49] Android_Mali_G78_Vulkan, [00000264A30C4A00][00000264A3BF2500 49] Android_Mali_G710, [00000264A30C0E00][00000264A3BF6680 49] Android_Mali_G710_Vulkan, [00000264A30C4800][00000264A3BFA800 49] Android_Vulkan_SM5, [00000264A30C0D00][00000264A3BFE980 49] Android_PowerVR_G6xxx, [00000264A30C7400][00000264A3C02B00 49] Android_PowerVR_GT7xxx, [00000264A30C2300][00000264A3C06C80 49] Android_PowerVR_GE8xxx, [00000264A30C6D00][00000264A3C0AE00 49] Android_PowerVR_GM9xxx, [00000264A30C2600][00000264A3C0EF80 49] Android_PowerVR_GM9xxx_Vulkan, [00000264A30C5C00][00000264A3C13100 49] Android_TegraK1, [00000264A30C3100][00000264A3BCF240 49] Android_Unknown_Vulkan, [00000264A30C5A00][00000264A3C17380 49] Lumin, [00000264A30C3A00][00000264A3C1B4C0 49] Lumin_Desktop, [00000264A30C5200][00000264A3C23640 49] HoloLens, 
+[2021.11.11-18.18.50:868][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.11-18.18.50:868][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.11-18.18.50:868][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.11-18.18.50:868][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.11-18.18.50:868][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.11-18.18.50:879][  0]LogNetVersion: Parcial2 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4008404171)
+[2021.11.11-18.18.51:268][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.11-18.18.51:310][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.11-18.18.51:315][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.11.11-18.18.51:315][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.11.11-18.18.51:315][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.11-18.18.51:500][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DB71ADBE40FE67D50616BB80C1B71521 | Instance: FAF0C8D146F4B26F5A96B18A84D255F8 (DESKTOP-GJOD601-38716).
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.11-18.18.51:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.11-18.18.51:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.11-18.18.51:513][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.51:513][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.51:527][  0]LogPython: Using Python 3.7.7
+[2021.11.11-18.18.51:960][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.11-18.18.51:971][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.11-18.18.56:481][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.11-18.18.56:507][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.11-18.18.56:520][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.11-18.18.56:520][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.11-18.18.56:614][  0]SourceControl: Source control is disabled
+[2021.11.11-18.18.56:615][  0]SourceControl: Source control is disabled
+[2021.11.11-18.18.56:616][  0]SourceControl: Source control is disabled
+[2021.11.11-18.18.56:619][  0]SourceControl: Source control is disabled
+[2021.11.11-18.18.56:625][  0]SourceControl: Source control is disabled
+[2021.11.11-18.18.56:629][  0]LogUProjectInfo: Found projects:
+[2021.11.11-18.18.56:639][  0]LogCollectionManager: Loaded 0 collections in 0.000444 seconds
+[2021.11.11-18.18.56:662][  0]LogFileCache: Scanning file cache for directory 'D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Collections/' took 0.00s
+[2021.11.11-18.18.56:662][  0]LogFileCache: Scanning file cache for directory 'D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/Developers/xjmx/Collections/' took 0.00s
+[2021.11.11-18.18.56:662][  0]LogFileCache: Scanning file cache for directory 'D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/Collections/' took 0.00s
+[2021.11.11-18.18.56:662][  0]LogOcInput: OculusInput pre-init called
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.11-18.18.56:806][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.11-18.18.56:806][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.11-18.18.56:806][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.56:806][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.56:919][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.11-18.18.56:919][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.11-18.18.56:919][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.11-18.18.56:919][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.11-18.18.56:920][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.11-18.18.56:920][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.11-18.18.56:920][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.11-18.18.56:920][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.11-18.18.56:920][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.11-18.18.56:920][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.11-18.18.56:920][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.11-18.18.56:920][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.11-18.18.56:920][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.11-18.18.56:920][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.11-18.18.56:920][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.11-18.18.56:920][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.11-18.18.56:920][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.56:920][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.57:012][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.11-18.18.57:012][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.11-18.18.57:012][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.11-18.18.57:012][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.11-18.18.57:013][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.11-18.18.57:013][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.11-18.18.57:013][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.11-18.18.57:013][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.11-18.18.57:013][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.11-18.18.57:013][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.11-18.18.57:013][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.11-18.18.57:013][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.11-18.18.57:013][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.11-18.18.57:013][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.11-18.18.57:013][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.11-18.18.57:013][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.57:013][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.11-18.18.57:077][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.57:077][  0]LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.11-18.18.57:077][  0]LogClass: Display: 11 Uninitialized script struct members found including 0 object properties
+[2021.11.11-18.18.57:077][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.57:078][  0]LogEngine: Initializing Engine...
+[2021.11.11-18.18.58:364][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.11-18.18.58:365][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.11-18.18.58:561][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.11-18.18.58:675][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.11-18.18.58:762][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.11-18.18.58:768][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.11-18.18.58:776][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.11-18.18.58:778][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.11-18.18.58:778][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.11-18.18.58:779][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.11-18.18.58:779][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-18.18.58:779][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-18.18.58:779][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.11-18.18.58:779][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.11-18.18.58:779][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.11-18.18.58:779][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-18.18.58:790][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-18.18.58:790][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-18.18.58:800][  0]LogAudioMixer: Display: Using Audio Device OUT (TRI-CAPTURE)
+[2021.11.11-18.18.58:803][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-18.18.58:805][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-18.18.58:805][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-18.18.58:805][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-18.18.58:805][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-18.18.58:805][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-18.18.58:806][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-18.18.58:806][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-18.18.58:806][  0]LogInit: FAudioDevice initialized.
+[2021.11.11-18.18.58:806][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.11-18.18.58:806][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.11-18.18.58:881][  0]LogDerivedDataCache: Saved boot cache 0.07s 103MB C:/Users/xjmx/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.11-18.18.58:881][  0]LogInit: Texture streaming: Enabled
+[2021.11.11-18.18.58:891][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.11.11-18.18.58:893][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.11-18.18.58:893][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.11-18.18.58:894][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.11-18.18.59:016][  0]LogInit: Transaction tracking system initialized
+[2021.11.11-18.18.59:030][  0]BlueprintLog: New page: Editor Load
+[2021.11.11-18.18.59:085][  0]LocalizationService: Localization service is disabled
+[2021.11.11-18.18.59:101][  0]TimingProfiler: Initialize
+[2021.11.11-18.18.59:101][  0]TimingProfiler: OnSessionChanged
+[2021.11.11-18.18.59:101][  0]LoadingProfiler: Initialize
+[2021.11.11-18.18.59:101][  0]LoadingProfiler: OnSessionChanged
+[2021.11.11-18.18.59:101][  0]NetworkingProfiler: Initialize
+[2021.11.11-18.18.59:101][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.11-18.18.59:101][  0]MemoryProfiler: Initialize
+[2021.11.11-18.18.59:101][  0]MemoryProfiler: OnSessionChanged
+[2021.11.11-18.18.59:279][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.11-18.18.59:279][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.11-18.18.59:407][  0]LogFileCache: Scanning file cache for directory 'D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/' took 0.00s
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.11-18.18.59:544][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.11-18.18.59:544][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.11-18.18.59:544][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.59:544][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.11-18.18.59:544][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.11-18.18.59:547][  0]SourceControl: Source control is disabled
+[2021.11.11-18.18.59:547][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.442
+[2021.11.11-18.18.59:858][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 F:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.11-18.18.59:858][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-18.18.59:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.18.59:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-18.19.00:985][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.11.11-18.19.01:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.11.11-18.19.01:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.11.11-18.19.01:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.11.11-18.19.01:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.11.11-18.19.01:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.11.11-18.19.01:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.11.11-18.19.01:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.11.11-18.19.02:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.11.11-18.19.02:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.11.11-18.19.02:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.11.11-18.19.02:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.11.11-18.19.02:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.11.11-18.19.02:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.11.11-18.19.02:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.11.11-18.19.02:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.11.11-18.19.02:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.11.11-18.19.03:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.11.11-18.19.03:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Fire01.uasset"
+[2021.11.11-18.19.03:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.11.11-18.19.03:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.11.11-18.19.03:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.11.11-18.19.03:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Light01.uasset"
+[2021.11.11-18.19.03:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.11.11-18.19.03:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Light02.uasset"
+[2021.11.11-18.19.03:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.11.11-18.19.03:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.11.11-18.19.03:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.11.11-18.19.04:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.11.11-18.19.04:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.11.11-18.19.04:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.11.11-18.19.04:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.11.11-18.19.04:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.11.11-18.19.04:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.11.11-18.19.04:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Steam01.uasset"
+[2021.11.11-18.19.04:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.11.11-18.19.05:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.11.11-18.19.05:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.11.11-18.19.05:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.11.11-18.19.05:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.11.11-18.19.05:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.11.11-18.19.05:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.11.11-18.19.05:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.11.11-18.19.05:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.11.11-18.19.05:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.11.11-18.19.06:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.11.11-18.19.06:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.11.11-18.19.06:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.11.11-18.19.06:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.11.11-18.19.06:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.11.11-18.19.06:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.11.11-18.19.06:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.11.11-18.19.09:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.11.11-18.19.09:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.11.11-18.19.09:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.11.11-18.19.09:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.11.11-18.19.09:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.11.11-18.19.09:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Maps/StarterMap.umap"
+[2021.11.11-18.19.09:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.11.11-18.19.10:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.11.11-18.19.10:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.11.11-18.19.10:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.11.11-18.19.10:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.11.11-18.19.10:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.11.11-18.19.10:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.11.11-18.19.10:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.11.11-18.19.10:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.11.11-18.19.10:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.11.11-18.19.10:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.11.11-18.19.10:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.11.11-18.19.10:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.11.11-18.19.10:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.11.11-18.19.10:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.11.11-18.19.10:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.11.11-18.19.10:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.11.11-18.19.10:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.11.11-18.19.10:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.11.11-18.19.10:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.11.11-18.19.10:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.11.11-18.19.10:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.11.11-18.19.10:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.11.11-18.19.10:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.11.11-18.19.10:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.11.11-18.19.10:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.11.11-18.19.11:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.11.11-18.19.11:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.11.11-18.19.11:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.11.11-18.19.11:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.11.11-18.19.11:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.11.11-18.19.11:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.11.11-18.19.11:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.11.11-18.19.11:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.11.11-18.19.11:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.11.11-18.19.11:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.11.11-18.19.11:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.11.11-18.19.11:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.11.11-18.19.11:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.11.11-18.19.11:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.11.11-18.19.11:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.11.11-18.19.12:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.11.11-18.19.12:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.11.11-18.19.12:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.11.11-18.19.12:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.11.11-18.19.12:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.11.11-18.19.12:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.11.11-18.19.12:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.11.11-18.19.12:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.11.11-18.19.12:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.11.11-18.19.12:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.11.11-18.19.12:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.11.11-18.19.13:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.11.11-18.19.13:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.11.11-18.19.13:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.11.11-18.19.13:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.11.11-18.19.13:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.11.11-18.19.13:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.11.11-18.19.13:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.11.11-18.19.13:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.11.11-18.19.13:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.11.11-18.19.13:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.11.11-18.19.14:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.11.11-18.19.14:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.11.11-18.19.14:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.11.11-18.19.14:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Door.uasset"
+[2021.11.11-18.19.14:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.11.11-18.19.14:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.11.11-18.19.14:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.11.11-18.19.14:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.11.11-18.19.14:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.11.11-18.19.14:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.11.11-18.19.14:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.11.11-18.19.14:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.11.11-18.19.14:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.11.11-18.19.14:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.11.11-18.19.14:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.11.11-18.19.14:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.11.11-18.19.14:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.11.11-18.19.14:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.11.11-18.19.14:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.11.11-18.19.14:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.11.11-18.19.14:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.11.11-18.19.14:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.11.11-18.19.15:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.11.11-18.19.15:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.11.11-18.19.15:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.11.11-18.19.15:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.11.11-18.19.15:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.11.11-18.19.15:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.11.11-18.19.15:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.11.11-18.19.15:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.11.11-18.19.15:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.11.11-18.19.15:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.11.11-18.19.15:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.11.11-18.19.15:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.11.11-18.19.15:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.11.11-18.19.15:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.11.11-18.19.15:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.11.11-18.19.15:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.11.11-18.19.15:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.11.11-18.19.15:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.11.11-18.19.15:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.11.11-18.19.15:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.11.11-18.19.15:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.11.11-18.19.15:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.11.11-18.19.15:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.11.11-18.19.15:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.11.11-18.19.15:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.11.11-18.19.15:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.11.11-18.19.15:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.11.11-18.19.15:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.11.11-18.19.16:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.11.11-18.19.16:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.11.11-18.19.16:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.11.11-18.19.16:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.11.11-18.19.16:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.11.11-18.19.17:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.11.11-18.19.17:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.11.11-18.19.17:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.11.11-18.19.17:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.11.11-18.19.17:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.11.11-18.19.18:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.11.11-18.19.18:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.11.11-18.19.18:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.11.11-18.19.18:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.11.11-18.19.18:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.11.11-18.19.18:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.11.11-18.19.18:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.11.11-18.19.18:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.11.11-18.19.18:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.11.11-18.19.18:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.11.11-18.19.18:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.11.11-18.19.18:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.11.11-18.19.18:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.11.11-18.19.18:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.11.11-18.19.18:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.11.11-18.19.18:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.11.11-18.19.18:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.11.11-18.19.19:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.11.11-18.19.19:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.11.11-18.19.19:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.11.11-18.19.19:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.11.11-18.19.19:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.11.11-18.19.19:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.11.11-18.19.20:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.11.11-18.19.20:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.11.11-18.19.20:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.11.11-18.19.20:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.11.11-18.19.20:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.11.11-18.19.20:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.11.11-18.19.20:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.11.11-18.19.20:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.11.11-18.19.20:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.11.11-18.19.20:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.11.11-18.19.20:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.11.11-18.19.20:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.11.11-18.19.20:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.11.11-18.19.21:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.11.11-18.19.21:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.11.11-18.19.21:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.11.11-18.19.21:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.11.11-18.19.21:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.11.11-18.19.22:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.11.11-18.19.22:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.11.11-18.19.22:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.11.11-18.19.22:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.11.11-18.19.22:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.11.11-18.19.23:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.11.11-18.19.23:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.11.11-18.19.23:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.11.11-18.19.23:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.11.11-18.19.23:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.11.11-18.19.23:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.11.11-18.19.23:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.11.11-18.19.24:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.11.11-18.19.24:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.11.11-18.19.24:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.11.11-18.19.24:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.11.11-18.19.25:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.11.11-18.19.25:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.11.11-18.19.25:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.11.11-18.19.25:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.11.11-18.19.25:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.11.11-18.19.25:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.11.11-18.19.25:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.11.11-18.19.26:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.11.11-18.19.26:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.11.11-18.19.26:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.11.11-18.19.26:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.11.11-18.19.26:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.11.11-18.19.26:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.11.11-18.19.26:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.11.11-18.19.26:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.11.11-18.19.26:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.11.11-18.19.26:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.11.11-18.19.26:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.11.11-18.19.26:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.11.11-18.19.26:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.11.11-18.19.26:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.11.11-18.19.26:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.11.11-18.19.26:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.11.11-18.19.26:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.11.11-18.19.26:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.11.11-18.19.26:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.11.11-18.19.26:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.11.11-18.19.26:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.11.11-18.19.26:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.11.11-18.19.26:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.11.11-18.19.27:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.11.11-18.19.27:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.11.11-18.19.27:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.11.11-18.19.27:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.11.11-18.19.27:754][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.11.11-18.19.27:778][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.11.11-18.19.28:035][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.11.11-18.19.28:501][  0]LogSavePackage: Moving 'D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Saved/Floor_400x4004D14F81E42471C91BA35CFB180843C82.tmp' to 'D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.11.11-18.19.28:501][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.11.11-18.19.28:502][  0]Cmd: MAP LOAD FILE="D:/Da Vinci/Cuatri 5/Prog en Motores/programacion-en-motores-parcial-2/Parcial2/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.11-18.19.28:502][  0]LightingResults: New page: Lighting Build
+[2021.11.11-18.19.28:503][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-18.19.28:503][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-18.19.28:503][  0]MapCheck: New page: Map Check
+[2021.11.11-18.19.28:503][  0]LightingResults: New page: Lighting Build
+[2021.11.11-18.19.28:507][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-18.19.28:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 64X32)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 512X256)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 512X512)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 512X512)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X32)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: DeprecatedTextureC1D63E1744C966CDAE311FBF362794EC (BGRA8, 128X128)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2021.11.11-18.19.28:779][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2021.11.11-18.19.28:779][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.11-18.19.28:779][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.11-18.19.28:779][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.11-18.19.28:779][  0]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0246992DF99811697812838DEA9CCDB03B527C16), compiling. 
+[2021.11.11-18.19.28:848][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 1
+[2021.11.11-18.19.28:986][  0]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.11.11-18.19.28:987][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.11.11-18.19.28:988][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.11-18.19.29:415][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.11-18.19.29:427][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.11.11-18.19.29:432][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.11-18.19.29:432][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.11.11-18.19.29:432][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.930
+[2021.11.11-18.19.29:435][  0]LogUnrealEdMisc: Total Editor Startup Time, took 41.329
+[2021.11.11-18.19.30:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.19.30:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.19.30:739][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.19.30:743][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.19.32:100][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3835 classes and 937 folders.
+[2021.11.11-18.19.32:170][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.11-18.19.32:171][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.11-18.19.32:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-18.19.32:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.11-18.19.32:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.11.11-18.19.32:171][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.11-18.19.32:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.11-18.19.32:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.11-18.19.32:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.11-18.19.32:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.11-18.19.32:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-18.19.32:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.11-18.19.32:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.11-18.19.32:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.11-18.19.32:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.11-18.19.32:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.11-18.19.32:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.11-18.19.32:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.11-18.19.32:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.11-18.19.32:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.11-18.19.32:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:174][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.11-18.19.32:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.11-18.19.32:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.11-18.19.32:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:174][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.11-18.19.32:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.11-18.19.32:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.11-18.19.32:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:175][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.11-18.19.32:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.11-18.19.32:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.11-18.19.32:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.11.11-18.19.32:175][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.11-18.19.32:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.11-18.19.32:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.11-18.19.32:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-18.19.32:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.11-18.19.32:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.11-18.19.32:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.11-18.19.32:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.11-18.19.32:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.11-18.19.32:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:177][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.11-18.19.32:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-18.19.32:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.11-18.19.32:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:177][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.11-18.19.32:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.11-18.19.32:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.11-18.19.32:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.11-18.19.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.11-18.19.32:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-18.19.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.11-18.19.32:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-18.19.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.11-18.19.32:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:179][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.11-18.19.32:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.11-18.19.32:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.11-18.19.32:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.11-18.19.32:179][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.11-18.19.32:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.11-18.19.32:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.11-18.19.32:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.11-18.19.32:179][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.11-18.19.32:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.11-18.19.32:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.11-18.19.32:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.11-18.19.32:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.11-18.19.32:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.11-18.19.32:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.11-18.19.32:181][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.11-18.19.32:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.11-18.19.32:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.11-18.19.32:181][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.11-18.19.32:181][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.11-18.19.32:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.11.11-18.19.32:207][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.11-18.19.32:348][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.11-18.19.32:921][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.11-18.19.32:954][  0]LogSlate: Took 0.025052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.11-18.19.32:990][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.11-18.19.33:200][  0]LogRenderer: Reallocating scene render targets to support 1440x872 Format 10 NumSamples 1 (Frame:1).
+[2021.11.11-18.19.33:557][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.11-18.19.33:557][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.11-18.19.33:557][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.11-18.19.33:558][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.11-18.19.33:558][  0]LogLoad: (Engine Initialization) Total time: 45.45 seconds
+[2021.11.11-18.19.33:558][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.11-18.19.33:584][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.11.11-18.19.33:584][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.11.11-18.19.33:608][  0]LogAssetRegistry: Asset discovery search completed in 43.0086 seconds
+[2021.11.11-18.19.33:613][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.11-18.19.33:613][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.11-18.19.55:879][226]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.11-18.19.55:921][226]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.11-18.19.56:352][226]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.11.11-18.20.17:879][310]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-18.20.17:884][310]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-18.20.17:901][310]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-18.20.17:901][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-18.20.29:963][236]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.11-18.21.43:835][213]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-18.21.43:841][213]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-18.21.43:842][213]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-18.21.43:842][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-18.22.15:112][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.11-18.23.07:166][395]LogSlate: Window 'Class Defaults' being destroyed
+[2021.11.11-18.23.09:242][605]LogSlate: Window 'Class Defaults' being destroyed
+[2021.11.11-18.23.15:669][276]LogSlate: Window 'Class Defaults' being destroyed
+[2021.11.11-18.23.28:002][579]LogSlate: Window 'Class Defaults' being destroyed
+[2021.11.11-18.23.35:202][407]LogSlate: Window 'Class Defaults' being destroyed
+[2021.11.11-18.23.37:585][661]LogSlate: Window 'Class Defaults' being destroyed
+[2021.11.11-18.23.43:997][328]LogSlate: Window 'Class Defaults' being destroyed
+[2021.11.11-18.24.08:781][532]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-18.24.08:787][532]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-18.24.08:787][532]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-18.24.08:787][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-18.24.12:205][920]LogSlate: Took 0.019859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.11-18.24.31:134][642]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.11-18.24.59:457][189]LogTabManager: Warning: Unable to insert tab 'Document'.
+[2021.11.11-18.24.59:457][189]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'Document'
+[2021.11.11-18.24.59:505][189]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v6' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.11.11-18.24.59:515][189]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.11-18.25.02:575][487]LogSlate: Window 'Event Graph' being destroyed
+[2021.11.11-18.25.02:580][487]LogSlate: Window 'Event Graph' being destroyed
+[2021.11.11-18.25.12:072][322]LogSlate: Window 'My Blueprint' being destroyed
+[2021.11.11-18.25.17:431][919]LogSlate: Window 'My Blueprint' being destroyed
+[2021.11.11-18.25.42:598][529]LogSlate: Window 'My Blueprint' being destroyed
+[2021.11.11-18.25.53:407][663]LogSlate: Window 'Find Results' being destroyed
+[2021.11.11-18.25.57:207][ 49]LogSlate: Window 'Find Results' being destroyed
+[2021.11.11-18.26.21:702][559]LogSlate: Window 'Blueprint Debugger' being destroyed
+[2021.11.11-18.27.31:773][388]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-18.27.31:780][388]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-18.27.31:780][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-18.27.31:818][388]LogSlate: Window 'Parcial2 - Unreal Editor' being destroyed
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SourceControl
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingQuality
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingDensity
+[2021.11.11-18.27.31:908][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingResolution
+[2021.11.11-18.27.31:909][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo
+[2021.11.11-18.27.31:909][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.EditorModes
+[2021.11.11-18.27.31:909][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.CompileComboButton
+[2021.11.11-18.27.31:909][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2021.11.11-18.27.31:909][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2021.11.11-18.27.31:909][388]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar
+[2021.11.11-18.27.31:921][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.27.31:927][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.27.31:932][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.27.31:937][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-18.27.31:994][388]LogRenderer: Reallocating scene render targets to support 1616x872 Format 10 NumSamples 1 (Frame:23440).
+[2021.11.11-18.27.32:110][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.11-18.27.46:988][333]LogSlate: Window 'My Blueprint' being destroyed
+[2021.11.11-18.28.33:182][477]LogSlate: Window 'Find Results' being destroyed
+[2021.11.11-18.29.10:536][533]LogSlate: Took 0.018831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.11-22.33.18:082][387]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.11.11-22.33.18:093][387]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-22.33.18:093][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-22.33.18:268][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Parcial2",
+			"Path": "D:\\Da Vinci\\Cuatri 5\\Prog en Motores\\programacion-en-motores-parcial-2\\Parcial2\\Source\\Parcial2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Parcial2Editor",
+			"Path": "D:\\Da Vinci\\Cuatri 5\\Prog en Motores\\programacion-en-motores-parcial-2\\Parcial2\\Source\\Parcial2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

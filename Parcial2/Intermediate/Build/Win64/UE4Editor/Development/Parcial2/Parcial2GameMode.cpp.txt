@@ -1,0 +1,15 @@
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Definitions.Parcial2.h
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Source\Parcial2\Parcial2GameMode.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Inc\Parcial2\Parcial2GameMode.generated.h
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Source\Parcial2\Parcial2Character.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Inc\Parcial2\Parcial2Character.generated.h

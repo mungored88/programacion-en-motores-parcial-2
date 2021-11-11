@@ -1,0 +1,2 @@
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Definitions.Parcial2.h
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Source\Parcial2\Parcial2.h
