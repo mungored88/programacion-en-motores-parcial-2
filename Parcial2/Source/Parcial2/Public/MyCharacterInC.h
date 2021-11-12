@@ -42,6 +42,11 @@ public:
 	//Jump
 	void Salto();
 
+	//Mouaw
+	void MouseX(float axisValue);
+	
+	void MouseY(float axisValue);
+
 
 	//Variables
 	UPROPERTY(EditAnywhere, BlueprintReadWrite) //atributo, por eso va sin ; es para poder ver la variable desde blueprints

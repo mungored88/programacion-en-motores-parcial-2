@@ -35,6 +35,8 @@ void AMyCharacterInC::SetupPlayerInputComponent(UInputComponent* PlayerInputComp
 	PlayerInputComponent ->BindAxis("MoveForward", this, &AMyCharacterInC::MoveForwardBackwards); //sin el & no funciona porque debe acceder a la reserva en memoria de la fn, tampoco lleva parámetros ni paréntesis aca
 	PlayerInputComponent->BindAxis("MoveRight", this, &AMyCharacterInC::MoveSideways);
 	PlayerInputComponent->BindAction("Jump", EInputEvent::IE_Pressed, this, &AMyCharacterInC::Salto);
+	PlayerInputComponent->BindAxis("MouseX", this, &AMyCharacterInC::MouseX);
+	PlayerInputComponent->BindAxis("MouseY", this, &AMyCharacterInC::MouseY);
 }
 
 void AMyCharacterInC::MoveForwardBackwards(float axisValue)
@@ -64,4 +66,14 @@ void AMyCharacterInC::MoveSideways(float axisValue)
 void AMyCharacterInC::Salto()
 {
 	Jump();
+}
+
+void AMyCharacterInC::MouseX(float axisValue)
+{
+	AddControllerYawInput(axisValue);
+}
+
+void AMyCharacterInC::MouseY(float axisValue)
+{
+	AddControllerPitchInput(axisValue);
 }
