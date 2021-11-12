@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2).
+  Deleted hot-reload file: D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Binaries\Win64\UE4Editor-Parcial2-4966.dll
+  Deleted hot-reload file: D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Binaries\Win64\UE4Editor-Parcial2-4966.pdb
+  Deleted hot-reload file: D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\UE4Editor-Parcial2-4966.lib
+  Building Parcial2Editor...
+  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 1 action with 16 processes...
+    [1/1] Parcial2Editor.target
+  Total time in Parallel executor: 0,17 seconds
+  Total execution time: 0,53 seconds

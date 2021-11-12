@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Parcial2-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\Parcial2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\MyActor.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\MyCharacterInC.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Parcial2.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Parcial2Character.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Parcial2GameMode.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\MyActor.gen.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\MyCharacterInC.gen.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Parcial2.init.gen.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Parcial2Character.gen.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Parcial2GameMode.gen.cpp.obj"
+"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Default.rc2.res"
+/OUT:"D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\UE4Editor-Parcial2-0005.lib"

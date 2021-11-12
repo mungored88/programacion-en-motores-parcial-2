@@ -1,0 +1,14 @@
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Development\Parcial2\Definitions.Parcial2.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Source\Parcial2/Public/MyCharacterInC.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+D:\Da Vinci\Cuatri 5\Prog en Motores\programacion-en-motores-parcial-2\Parcial2\Intermediate\Build\Win64\UE4Editor\Inc\Parcial2\MyCharacterInC.generated.h

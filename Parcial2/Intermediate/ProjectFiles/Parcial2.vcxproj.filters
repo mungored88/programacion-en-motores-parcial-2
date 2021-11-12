@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Parcial2.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D47F645A-B019-4114-AB0B-30C83E7109C8}</UniqueIdentifier>
+      <UniqueIdentifier>{2DDA53E6-49F9-4946-8CF9-A3AC0E7D6D00}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Parcial2.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5978D047-E701-4220-9EB2-759DC388F340}</UniqueIdentifier>
+      <UniqueIdentifier>{F25A2D91-3678-48ED-8C23-5BE7DC7FF66E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Parcial2">
-      <UniqueIdentifier>{1243B519-6D9C-414A-9F30-5857FA3D22CD}</UniqueIdentifier>
+      <UniqueIdentifier>{870A7A7D-D065-4216-AAE5-134382738152}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Parcial2\Parcial2.Build.cs">
       <Filter>Source\Parcial2</Filter>
@@ -52,6 +52,24 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Parcial2\Parcial2GameMode.h">
       <Filter>Source\Parcial2</Filter>
+    </ClInclude>
+    <Filter Include="Source\Parcial2\Private">
+      <UniqueIdentifier>{761BF28A-ADA8-4F4F-8F5F-68210D53916C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Parcial2\Private\MyActor.cpp">
+      <Filter>Source\Parcial2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Parcial2\Private\MyCharacterInC.cpp">
+      <Filter>Source\Parcial2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Parcial2\Public">
+      <UniqueIdentifier>{867A37B3-A612-4ED5-9B77-F23793CEFE92}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Parcial2\Public\MyActor.h">
+      <Filter>Source\Parcial2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Parcial2\Public\MyCharacterInC.h">
+      <Filter>Source\Parcial2\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
