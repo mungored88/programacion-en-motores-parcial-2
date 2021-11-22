@@ -52,7 +52,6 @@ void AMyCharacterInC::MoveForwardBackwards(float axisValue)
 
 	VerticalAxis = axisValue;
 }
-
 void AMyCharacterInC::MoveSideways(float axisValue)
 {
 	FRotator PlayerRotation = FRotator(0, GetActorRotation().Yaw, 0);
